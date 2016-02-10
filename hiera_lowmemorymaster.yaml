@@ -1,5 +1,5 @@
 #These settings are intended for low memory testing VMs
-#Not intended for general usage
+#Not intended for general usage.
 ---
 #Drop puppetdb Java Heap Size
 #PE3.2 and above
