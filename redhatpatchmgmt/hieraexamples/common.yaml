@@ -1,0 +1,5 @@
+#################### Redhat patch management ####################
+
+redhatpatchmgmt::reportpath: '/var/local'
+redhatpatchmgmt::reponame: 'anaconda-CentOS-201410241409.x86_64/6.6'
+redhatpatchmgmt::recipientmail: 'keshav_sharma@symantec.com,Vedprakash_Nimbalkar@symantec.com,Vinod_Jungare@symantec.com'

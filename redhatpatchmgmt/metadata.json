@@ -1,0 +1,16 @@
+{
+  "name": "keshav2211-redhatpatchmgmt",
+  "version": "0.1.0",
+  "author": "Keshav Sharma",
+  "summary": "Module to manage RHEL patches",
+  "license": "Apache-2.0",
+  "source": "",
+  "project_page": null,
+  "issues_url": null,
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"},
+    {"name":"stankevich-python","version_requirement":">= 1.12.0"}
+  ],
+  "data_provider": null
+}
+
